@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Flutter and whatever I can learn**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, or anything you like.**
 
 - 📫 How to reach me **rohit.psudarsanan@gmail.com**
 
