@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=red-malone&label=Profile%20views&color=0e75b6&style=flat" alt="red-malone" /> </p>
 
-- 🌱 I’m currently learning **Java, Flutter and whatever I can learn**
+- 🌱 I’m currently learning **Flutter and Go lang**
 
 - 💬 Ask me about **Flutter, or anything you like.**
 
