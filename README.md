@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Pradeep Sudarsanan
+![GithubCatGIF](https://github.com/red-malone/red-malone/assets/96327578/43473192-be01-41e5-96d8-4e67a46b6d59)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Pradeep Sudarsanan
 ================================================================================================================================================
 
 Flutter Developer
@@ -11,6 +11,7 @@ I'm a third-year B.Tech student at Toc-H Institute of Science and Technology, ma
 * 🧠  I'm learning to be a backend dev
 * 🤝  I'm open to collaborating on anything that is interesting
 * ⚡  Avid Batman fan
+* 😁  My professional acc- [rohi-dst](https://github.com/rohi-dst)
 
 ### Skills
 
