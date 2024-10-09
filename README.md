@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Flutter Developer
 -----------------
 
-I'm a third-year B.Tech student at Toc-H Institute of Science and Technology, majoring in Computer Science. I'm really passionate about programming and have worked on a variety of projects, from simple coding tasks to more complex programming challenges. I pay close attention to detail and love exploring new technologies to keep learning and growing. Problem-solving is something I truly enjoy, and I'm always looking for ways to improve my skills in this area. I work as a Flutter developer at DST HUB LLP, and I also have experience in backend development using Golang with the Gin framework. Additionally, I dabble in designing. My goal is to become a software engineer and make a meaningful contribution to the tech industry.
+I'm a final year B.Tech student at Toc-H Institute of Science and Technology, majoring in Computer Science. I'm really passionate about programming and have worked on a variety of projects, from simple coding tasks to more complex programming challenges. I pay close attention to detail and love exploring new technologies to keep learning and growing. Problem-solving is something I truly enjoy, and I'm always looking for ways to improve my skills in this area. I work as a Flutter developer at DST HUB LLP, and I also have experience in backend development using Golang with the Gin framework. Additionally, I dabble in designing. My goal is to become a software engineer and make a meaningful contribution to the tech industry.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rohit.psudarsanan@gmail.com](mailto:rohit.psudarsanan@gmail.com)
